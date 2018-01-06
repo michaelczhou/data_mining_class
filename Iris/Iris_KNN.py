@@ -5,7 +5,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib as mpl
 from sklearn import neighbors
-from sklearn.lda import LDA
+from sklearn.discriminant_analysis import LinearDiscriminantAnalysis as LDA
+#from sklearn.lda import LDA
 from sklearn.cross_validation import train_test_split
 
 def iris_type(s):
