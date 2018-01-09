@@ -1,0 +1,3 @@
+import thulac
+
+a = thulac()

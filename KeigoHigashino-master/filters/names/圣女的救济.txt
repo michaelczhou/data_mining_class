@@ -1,100 +1,100 @@
-汤川 /nr 304	 , [“/w, 汤川/nr, ”/w, 旁
-若山宏美 /nr 131	  ，/w], [若山宏美/nrj, 就/d, 
-真柴先生 /nr 117	 , 看到/v, 真柴先生/nrj, 您/rr,
-内海薰 /nr 101	  ，/w], [内海薰/nrj, 并未/d,
-义孝 /nr 91	 , [”/w, 义孝/nr, 坐在/v, 
-真柴义孝 /nr 54	 , 名叫/v, 真柴义孝/nr, ，/w], 
-津久井润子 /nr 37	 i, 做/v, 津久井润子/nrj, ，/w],
-柴义孝 /nr 33	 , [真/a, 柴义孝/nr, 经营/vn,
-若山小姐 /nr 29	 , 交给/v, 若山小姐/nrj, 代为/v,
-真柴太太 /nr 24	 , [“/w, 真柴太太/nrj, 。/w],
-真柴绫音 /nr 24	  ，/w], [真柴绫音/nrj, 是/vsh
+绫音 /nr 517	  。/w], [绫音/nrjb, 透过/v
+汤川 /nr 311	 , [“/w, 汤川/nrjb, ”/w,
+宏美 /nr 255	 /w], [若山宏美/nrj, 就/d, 
+真柴 /nr 188	  [看到/v, 真柴/nrjb, 夫妇/n
+义孝 /nr 172	 , [”/w, 义孝/nrj, 坐在/v,
+若山宏美 /nr 144	  ，/w], [若山宏美/nrj, 就/d, 
+猪饲 /nr 124	  。/w], [猪饲/nrjb, 有/vy
+真柴先生 /nr 121	 , 看到/v, 真柴先生/nrj, 您/rr,
+间宫 /nr 120	 股长/nnt, 间宫/nrjb, 可以/v
+内海薰 /nr 117	  ，/w], [内海薰/nrj, 并未/d,
+润子 /nr 104	 井/nrjb, 润子/nrjb, ，/w]
+内海 /nr 55	 w, “/w, 内海/nrjb, 说/v,
+津久井 /nr 52	 i, 做/v, 津久井/nrjb, 润子/n
+水池 /nr 35	 的/ude1, 水池/nrjb, 里/f,
+若山小姐 /nr 34	 , 交给/v, 若山小姐/nrj, 代为/v,
+真柴太太 /nr 31	 , [“/w, 真柴太太/nrj, 。/w],
+义孝先生 /nr 31	 柴/nrjb, 义孝先生/nrj, 需要/v,
+东野 /nr 29	  ，/w], [东野/nrjb, 创作/v
+由希子 /nr 29	 饲/nrjb, 由希子/nrjb, 往/p,
+洋子 /nr 27	 井/nrjb, 洋子/nrjb, 接到/v
+真柴绫音 /nr 27	  ，/w], [真柴绫音/nrj, 是/vsh
+笹冈 /nr 22	 , 请问/v, 笹冈/nrjb, 先生/n
+母亲 /nr 22	 , 和/cc, 母亲/nrjb, 。/w]
+山本 /nr 20	 e, “/w, 山本/nrjb, 惠子/n
 伽利略 /nr 19	 到/nz, 神探伽利略/nrj, 也/d, 
-山本惠子 /nr 18	 e, “/w, 山本惠子/nrj, ”/w, 
 内海熏 /nr 16	  [虽然/c, 内海熏/nrj, 认为/v,
-草薙先生 /nr 12	 , [“/w, 草薙先生/nrj, ，/w],
-义孝先生 /nr 10	  ，/w], [义孝先生/nrj, 当时/t,
-物理学 /nr 10	  [这位/r, 物理学/nrj, 家/q, 
+父亲 /nr 14	  [成为/v, 父亲/nrjb, 和/cc
+目黑 /nr 14	 , 去/vf, 目黑/nrjb, 警署/n
+那只 /nr 14	 w, 从/p, 那只/nr, 水壶/n, 
+那孩子 /nr 13	 , [但/c, 那孩子/nr, 挺/d, 机
+那你 /nr 12	 , [“/w, 那你/nr, 对/p, 我
+登纪子 /nr 12	 亲/nrjb, 登纪子/nrjb, ，/w]
+物理学 /nr 9	  [这位/r, 物理学/nrj, 家/q, 
 东野圭吾 /nr 9	 t, ：/w, 东野圭吾/nrj], [袁斌/
-猪饲先生 /nr 8	 , 那位/r, 猪饲先生/nrj, 。/w],
-宫问 /nr 8	 w, 间/f, 宫问/nr, 。/w], 
-津久井女士 /nr 7	 , 经过/p, 津久井女士/nrj, 之/uzh
-向绫音 /nr 7	 2, 看/v, 向绫音/nrj, 。/w],
+多久 /nr 8	 v, 上/f, 多久/nrjb, 啊/y,
+津久井润子 /nr 7	 , 和/cc, 津久井润子/nrj, 的/ude
+元冈 /nr 7	 , 叫/vi, 元冈/nrjb, 佐/vg
+汤川学 /nr 7	 , 与/cc, 汤川学/nrj, 首次/mq
+草薙先生 /nr 6	 r, 对/p, 草薙先生/nrj, 也/d, 
 马克杯 /nr 6	  把/pba, 马克杯/nr, 放到/v, 
-间宫一 /nr 6	  [只见/v, 间宫一/nrj, 脸/n, 
-名刑警 /nr 6	 p, 一/m, 名刑警/nrj, ，/w],
 一口凉 /nr 6	 , 倒吸/v, 一口凉/nrj, 气/n, 
-和绫音 /nr 6	  [目光/n, 和绫音/nrj, 对/p, 
-汤川学 /nr 6	  了/ule, 汤川学/nrj, 这/rzv
-那孩子 /nr 6	 , [但/c, 那孩子/nr, 挺/d, 机
-津久井润子女士 /nr 5	  有关/vn, 津久井润子女士/nrj, 的/ude
-那只 /nr 5	 , 一下/m, 那只/nr, 空瓶/nz,
+那番 /nr 6	 的/ude1, 那番/nr, 对话/vn,
+名刑警 /nr 6	 p, 一/m, 名刑警/nrj, ，/w],
 久等了 /nr 5	 , 你/rr, 久等了/nrj, 。/w],
-和润子 /nr 5	  [她/rr, 和润子/nrj, 是/vsh
-可可 /nr 5	 e, 口/n, 可可/nrf, ，/w],
-伦敦 /nr 5	 , 和/cc, 伦敦/nrf, 。/w],
-那你 /nr 5	 , [“/w, 那你/nr, 对/p, 我
-才对 /nr 5	 f, 中/f, 才对/nr, 。/w], 
 关系了 /nr 5	 的/ude1, 关系了/nrj, 。/w],
-元冈太太 /nr 5	 w, “/w, 元冈太太/nrj, 的/ude
-山本 /nr 5	 , 叫/vi, 山本/nr, 女士/n, 
-一场完 /nr 4	 是/vshi, 一场完/nrj, 美/b, 
-元冈 /nr 4	 , 叫/vi, 元冈/nr, 佐/vg, 
-海薰 /nr 4	 ，/w], [内海薰/nrj, 并未/d,
-与绫音 /nr 4	  ，/w], [与绫音/nrj, 的/ude
-若山宏美小姐 /nr 4	 是/vshi, 若山宏美小姐/nrj, 最先/d,
-宫也 /nr 4	 w, 间/f, 宫也/nr, 点点头/v,
-草薙一 /nr 4	 [”/w], [草薙一/nrj, 拍/v, 
-笹冈先生 /nr 4	 , 请问/v, 笹冈先生/nrj, 在/p, 
-内海小姐 /nr 4	 ……/w], [内海小姐/nrj, ，/w],
-布隆多洛 /nr 4	  ./w], [布隆多洛/nrf, 的/ude
+本部 /nr 5	 , 搜查/v, 本部/nrjb, 。/w]
+伦敦 /nr 5	 , 和/cc, 伦敦/nrf, 。/w],
+可可 /nr 5	 e, 口/n, 可可/nrf, ，/w],
 和绫音太太 /nr 4	 w, 在/p, 和绫音太太/nrj, 开始/v,
-猪饲由希子 /nr 4	 , [”/w, 猪饲由希子/nrj, 往/p, 
-和宣 /nr 4	 v, 在/p, 和宣/nrj, 身旁/s,
+连头 /nr 4	  ，/w], [连头/nr, 也/d, 不
+才对 /nr 4	 , 我/rr, 才对/nr, 。/w], 
+那张 /nr 4	 着/uzhe, 那张/nr, 报告/n, 
+若山宏美小姐 /nr 4	 是/vshi, 若山宏美小姐/nrj, 最先/d,
+那副 /nr 4	  ，/w], [那副/nr, 笑容/n, 
 帕杰罗 /nr 4	 的/ude1, 帕杰罗/nrf, 停/vi,
-羽田 /nr 3	 , 去/vf, 羽田/nrf, 。/w],
-汤川一 /nr 3	 , [”/w, 汤川一/nrj, 边/k, 
-西高 /nr 3	 是/vshi, 西高/nr, 屋/n, 站
-那番 /nr 3	 的/ude1, 那番/nr, 对话/vn,
-才好 /nr 3	 的/ude1, 才好/nr, 喝/vg, 
-宫说 /nr 3	 w, 间/f, 宫说/nr, ，/w], 
-关真 /nr 3	 有/vyou, 关真/nr, 柴义孝/nr
-三田绫音 /nr 3	 , 还是/c, 三田绫音/nrj, 的/ude
+一场完 /nr 4	 是/vshi, 一场完/nrj, 美/b, 
+布隆多洛 /nr 4	  ./w], [布隆多洛/nrf, 的/ude
+和宣 /nr 4	 v, 在/p, 和宣/nrj, 身旁/s,
+内海小姐 /nr 4	 ……/w], [内海小姐/nrj, ，/w],
+广岛 /nr 4	 n, 在/p, 广岛/nrjb, ，/w]
+那事 /nr 4	 的/ude1, 那事/nr, ，/w], 
+谢谢你 /nr 4	  ！/w], [谢谢你/nr, ，/w], 
+一角 /nr 4	 v, 布/n, 一角/nrjb, ，/w]
+那也 /nr 4	  ，/w], [那也/nr, 就/d, 无
+那名 /nr 4	 的/ude1, 那名/nr, 警官/nnt
+元冈太太 /nr 3	  了/ule, 元冈太太/nrj, 吧/y, 
+那可 /nr 3	  ，/w], [那可/nr, 就/d, 大
+那是 /nr 3	  。/w], [那是/nr, 一/m, 部
+才会 /nr 3	  [所以/c, 才会/nr, 想尽办法/l
+猪饲先生 /nr 3	  ，/w], [猪饲先生/nrj, 他们/rr
+无限 /nr 3	  可能性/n, 无限/nrjb, 接近/v
 福山雅治 /nr 3	 着/uzhe, 福山雅治/nrj, 的/ude
-猪饲一 /nr 3	 , [”/w, 猪饲一/nrj, 边/k, 
 内海薰一 /nr 3	 , [”/w, 内海薰一/nrj, 面/nf,
-那真 /nr 3	 , [“/w, 那真/nr, 柴/n, 先
+山本惠子 /nr 3	 , [”/w, 山本惠子/nrj, 把/pba
+才好 /nr 3	 的/ude1, 才好/nr, 喝/vg, 
+北海 /nr 3	 , 前往/v, 北海/nrjb, 道/qv
+津久 /nr 3	 , [“/w, 津久/nrjb, ……/w
+都是 /nr 3	 的/ude1, 都是/nr, 真柴/nrj
+和绫音 /nr 3	 的/ude1, 和绫音/nrj, 的/ude
+贵子 /nr 3	 , 佐/vg, 贵子/nrjb, 。/w]
+津久井女士 /nr 3	 r, 对/p, 津久井女士/nrj, 的/ude
 都还 /nr 3	 , 现在/t, 都还/nr, 没有/v, 
-关键就 /nr 2	 的/ude1, 关键就/nr, 在于/v, 
-朝厨房 /nr 2	  起身/vi, 朝厨房/nrj, 走去/v,
-那张 /nr 2	 着/uzhe, 那张/nr, 报告/n, 
-那就请 /nr 2	 w, “/w, 那就请/nr, 您/rr, 
-塞耶斯 /nr 2	 , 比如/v, 塞耶斯/nrf, 笔下/n,
+羽田 /nr 3	 , 去/vf, 羽田/nrf, 。/w],
+西高 /nr 3	 是/vshi, 西高/nr, 屋/n, 站
 那件 /nr 2	 d, 在/p, 那件/nr, 衣服/n, 
-前绫音 /nr 2	 之/uzhi, 前绫音/nrj, 交给/v,
-义孝问 /nr 2	 , [”/w, 义孝问/nr, 由/p, 希
-津久井润子和真 /nr 2	  ，/w], [津久井润子和真/nrj, 柴/n, 
-连头 /nr 2	 r, 却/d, 连头/nr, 都/d, 没
-与润子 /nr 2	 , 成分/n, 与润子/nrj, 从/p, 
-山宏美 /nr 2	 ，/w], [若山宏美/nrj, 就/d, 
-于真 /nr 2	 n, 在/p, 于真/nr, 柴义孝/nr
-宫在 /nr 2	 v, 间/f, 宫在/nr, 电话/n, 
-那名 /nr 2	 的/ude1, 那名/nr, 警官/nnt
-那几 /nr 2	  把/pba, 那几/nr, 只/d, 香
-真柴绫音女士 /nr 2	 是/vshi, 真柴绫音女士/nrj, 打来/v,
-上绫音 /nr 2	 , 际/ng, 上绫音/nrj, 是/vsh
-包里 /nr 2	 的/ude1, 包里/nr, 说是/v, 
-才刚 /nr 2	 , 她/rr, 才刚/nr, 被/pbei
-草薙刚 /nr 2	 [”/w], [草薙刚/nrj, 低下头/n
-间宫等 /nr 2	  ，/w], [间宫等/nrj, 人/n, 
+时光 /nr 2	 有/vyou, 时光/nrjb, 是/vs
+津久井润子女士 /nr 2	 , 与/cc, 津久井润子女士/nrj, 之间/f,
+谈过 /nr 2	 , 一起/s, 谈过/nr, 真柴/nrj
+展上 /nr 2	 1, 个/q, 展上/nr, 犮/w, 布
 花也 /nr 2	 的/ude1, 花也/nr, 跟着/v, 
-才会 /nr 2	  ，/w], [才会/nr, 有/vyou
-二位了 /nr 2	  你们/rr, 二位了/nrj], [，/w
-津久井洋子 /nr 2	 n, 、/w, 津久井洋子/nrj, 接到/v,
-依你 /nr 2	 [那/rzv, 依你/nr, 说/v, ，
-柴太太 /nr 2	  [“/w, 真柴太太/nrj, 。/w],
-都是 /nr 2	 常生活/nz, 都是/nr, 以/p, 孩
-刚进 /nr 2	  [我/rr, 刚进/nr, 玄关/nz,
+明知 /nr 2	 是/vshi, 明知/nrjb, 您/rr
+时用 /nr 2	 r, 当/p, 时用/nr, 的/ude1
+那几 /nr 2	  把/pba, 那几/nr, 只/d, 香
+那女 /nr 2	  把/pba, 那女/nr, 的/ude1
+那台 /nr 2	 , 现在/t, 那台/nr, 咖啡机/nz
+若山宏美一 /nr 2	  。/w], [若山宏美一/nrj, 脸/n, 
+真柴绫音女士 /nr 2	 是/vshi, 真柴绫音女士/nrj, 打来/v,
 流星之绊 /nr 2	 w, 《/w, 流星之绊/nrj, 》/w, 
-那副 /nr 2	 的/ude1, 那副/nr, 钥匙/n, 
-才行 /nr 2	 派上用场/n, 才行/nr, 。/w], 
+双眉 /nr 2	 , 他/rr, 双眉/nr, 紧锁/nz,
+那一天 /nr 2	 32/m], [那一天/nr, ，/w], 

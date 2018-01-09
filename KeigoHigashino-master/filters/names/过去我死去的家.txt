@@ -1,100 +1,100 @@
-沙也加 /nr 207	 /w], [仓桥沙也加/nrj, ”/w],
-沙也 /nr 35	 , 和/cc, 沙也/nr, 加在/v, 
-启一郎 /nr 32	 /b], [御厨启一郎/nrj], [中野/
-御厨启一郎 /nr 14	  日/b], [御厨启一郎/nrj], [中野/
-御厨雅和 /nr 10	 w, 即/v, 御厨雅和/nrj, 不是/c,
-才对 /nr 9	  十字架/n, 才对/nr, ”/w, 我
-那孩子 /nr 7	 r, 对/p, 那孩子/nr, 的/ude1
+沙也加 /nr 428	 桥/nrjb, 沙也加/nrjb, ”/w]
+佑介 /nr 197	 厨/nrjb, 佑介/nrjb, ”/w,
+御厨 /nr 70	  班/n], [御厨/nrjb, 佑介/n
+父亲 /nr 57	 的/ude1, 父亲/nrjb, 那里/r
+母亲 /nr 51	 , 我/rr, 母亲/nrjb, 商量/v
+启一 /nr 31	  ，/w], [启一/nrjb, 郎/ng
+美晴 /nr 19	 , 叫/vi, 美晴/nrjb, ，/w]
+那是 /nr 16	  ，/w], [那是/nr, 一/m, 栋
+御厨启一郎 /nr 16	  日/b], [御厨启一郎/nrj], [中野/
+雅和 /nr 14	 的/ude1, 雅和/nrjb, 的/ud
+松原 /nr 13	 i, “/w, 松原/nrjb, 湖/n,
+横滨 /nr 13	 , 住在/v, 横滨/nrjb, 的/ud
+那孩子 /nr 11	 r, 对/p, 那孩子/nr, 的/ude1
+和沙 /nr 10	  [我/rr, 和沙/nrjb, 也/d,
+才对 /nr 9	 , 明显/a, 才对/nr, ”/w, 说
+养父 /nr 8	 a, ”/w, 养父/nrjb, 这么/r
+那本 /nr 8	  了/ule, 那本/nr, 杂志/n, 
+仓桥 /nr 8	 是/vshi, 仓桥/nrjb, ，/w]
+森林 /nr 7	 m, 片/q, 森林/nrjb, 。/w]
+沙也 /nr 7	 [”/w], [沙也/nr, 加深/v, 
+清里 /nr 6	 , 去/vf, 清里/nr, 的/ude1
+抚养 /nr 6	 , 没有/v, 抚养/nrjb, 孩子/n
 那你 /nr 6	 , [“/w, 那你/nr, 今天/t, 
-那本 /nr 6	  了/ule, 那本/nr, 杂志/n, 
-和佑介 /nr 5	 , 父母/n, 和佑介/nrj, 组成/v,
-御厨佑介 /nr 5	  班/n], [御厨佑介/nrj, ”/w, 
+那张 /nr 5	  了/ule, 那张/nr, 纸/n, ，
+御厨雅和 /nr 5	 是/vshi, 御厨雅和/nrj, 的/ude
+街道 /nr 4	 n, 州/n, 街道/nrjb, 。/w]
+长野 /nr 4	 i, 在/p, 长野/nrjb, 的/ud
 松原湖 /nr 4	 e, “/w, 松原湖/nr, 入口/n, 
-代奈 /nr 3	 , [“/w, 代奈/nr, ，/w], 
-仓桥沙也加 /nr 3	  ，/w], [仓桥沙也加/nrj, ”/w],
 兴会 /nr 3	 是/vshi, 兴会/nr, 了/ule,
-清里 /nr 3	 d, 在/p, 清里/nr, 住/vi, 
+那只 /nr 3	 , 挂着/v, 那只/nr, 一个/mq,
+多久 /nr 3	  了/ule, 多久/nrjb, 。/w]
+才是 /nr 3	  这/rzv, 才是/nr, 沙也加/nr
 满是 /nr 3	 i, 在/p, 满是/nr, 土坑/n, 
-那是 /nr 2	 , [“/w, 那是/nr, 另一回事/i
-有道理 /nr 2	 , [“/w, 有道理/nrj, ”/w, 
-那只 /nr 2	 , 挂着/v, 那只/nr, 一个/mq,
+代奈 /nr 3	 , [“/w, 代奈/nr, ，/w], 
+山本 /nr 3	  [晚上/t, 山本/nrjb, 君/ng
+双眉 /nr 2	 , 起/vf, 双眉/nr, ，/w], 
 代婶 /nr 2	 , 她/rr, 代婶/nr, ，/w], 
-起沙也加 /nr 2	 r, 想/v, 起沙也加/nrj, 曾/d, 
+都是 /nr 2	 , [也/d, 都是/nr, 那栋/r, 
+那是我 /nr 2	  。/w], [那是我/nr, 小学生/nn
+那件 /nr 2	  ，/w], [那件/nr, 金属棒/nz
+土地 /nr 2	  。/w], [土地/nrjb, 租用费/
+成是 /nr 2	 , 叫/vi, 成是/nr, 父亲/nrj
 小仓刑警 /nr 2	  ，/w], [小仓刑警/nrj, 的/ude
-才会 /nr 2	 , 钥匙/n, 才会/nr, 是/vshi
-都是 /nr 2	  壁钟/nz, 都是/nr, 用/p, 电
-明佑介 /nr 2	 v, 说/v, 明佑介/nrj, 果然/d,
-有佑介 /nr 2	 d, 没/d, 有佑介/nrj, 是/vsh
-小沙也加 /nr 2	 , [“/w, 小沙也加/nrj, 和/cc,
-定佑介 /nr 2	 v, 不/d, 定佑介/nrj, 的/ude
-都有 /nr 2	 各种类型/l, 都有/nr, 。/w], 
+那条 /nr 2	 的/ude1, 那条/nr, 马路/n, 
+那户 /nr 2	 , 和/cc, 那户/nr, 人家/n, 
+老太太 /nr 2	 厨/nrjb, 老太太/nrjb, 一下子/
+仓桥沙也加 /nr 2	  [而/cc, 仓桥沙也加/nrj, 还/d, 
 老光 /nr 2	 是/vshi, 老光/nr, 眼镜/n, 
-才是沙 /nr 2	  这/rzv, 才是沙/nr, 也/d, 加
-高园 /nr 1	 , [从/p, 高园/nr, 寺/ng, 
-藤本 /nr 1	 , 时候/n, 藤本/nrf, 在/p, 
-于两年 /nr 1	  [妻子/n, 于两年/nr, 后/f, 去
-房子让 /nr 1	  把/pba, 房子让/nrj, 给/p, 
-高约 /nr 1	 , 一块/s, 高约/nr, 一/m, 米
-那户 /nr 1	 , 和/cc, 那户/nr, 人家/n, 
-山本君 /nr 1	  [晚上/t, 山本君/nr, 带来/v, 
-那张 /nr 1	  了/ule, 那张/nr, 纸/n, ，
-张开嘴 /nr 1	 , 吃惊/a, 张开嘴/nr, ，/w], 
-长子雅和 /nr 1	 j, 对/p, 长子雅和/nrj, 断/v, 
-盖建 /nr 1	 , 重新/d, 盖建/nr, 的话/udh
-须玉 /nr 1	  了/ule, 须玉/nr, 。/w], 
-御厨久美 /nr 1	  ，/w], [御厨久美/nrj, 对/p, 
-科诺索斯 /nr 1	 , 知道/v, 科诺索斯/nrf, 宫殿/n,
-开佑介 /nr 1	 r, 打/v, 开佑介/nrj, 的/ude
-为了沙也加 /nr 1	 是/vshi, 为了沙也加/nrj, 吗/y, 
-都快 /nr 1	  螺丝刀/n, 都快/nr, 弯/ng, 
-安地 /nr 1	 d, 不/d, 安地/nr, 瞪大/nz,
-成是 /nr 1	 , 叫/vi, 成是/nr, 父亲/n, 
-中间伸 /nr 1	  [而/cc, 中间伸/nrj, 出/vf,
-我有美晴 /nr 1	  。/w], [我有美晴/nrj, 这样/rz
-才种上 /nr 1	  变化/vn, 才种上/nr, 了/ule,
-沙也家 /nr 1	 n, ”/w, 沙也家/nr, 两手/m, 
-久等了 /nr 1	 , 你/rr, 久等了/nrj, ”/w, 
-小口子 /nr 1	  一个/mq, 小口子/nrj, 呢/y, 
-野政 /nr 1	 , 从中/d, 野政/nr, 嗣/ng, 
-成是佑 /nr 1	 , 理解/v, 成是佑/nr, 介/vg, 
-连正在 /nr 1	  [因为/c, 连正在/nr, 建造/v, 
-花好大 /nr 1	 v, 要/v, 花好大/nr, 的/ude1
-山本宏美 /nr 1	 幸福/a], [山本宏美/nrj, ”/w],
-前佑介 /nr 1	 , 年/qt, 前佑介/nrj, 为/p, 
-蓝天上 /nr 1	 [3/m], [蓝天上/nr, 飘着/v, 
-伊藤博文 /nr 1	 , 印有/v, 伊藤博文/nrj, 的/ude
-连心 /nr 1	  ，/w], [连心/nr, 也/d, 被
-何而生 /nr 1	 g, 由/p, 何而生/nr, 。/w], 
-金井家 /nr 1	  了/ule, 金井家/nr, ，/w], 
-阴转雨 /nr 1	  日/b], [阴转雨/nr], [那/rz
-朝南 /nr 1	 , 可能/v, 朝南/nrf, ，/w],
-里一步 /nr 1	  这/rzv, 里一步/nrj, 。/w],
-孙子佑介 /nr 1	  把/pba, 孙子佑介/nrj, 当成/v,
-都还在 /nr 1	 , 指针/n, 都还在/nr, 。/w], 
-捧日记 /nr 1	 r, 手/n, 捧日记/nrj, ，/w],
-山田君 /nr 1	 晴天/n], [山田君/nr, 把/pba,
-回圣 /nr 1	 d, 夹/v, 回圣/nrj, 经/p, 
-诸那 /nr 1	 1, 小/a, 诸那/nr, 一带/n, 
+有道理 /nr 2	 , [“/w, 有道理/nrj, ”/w, 
+工藤 /nr 2	 是/vshi, 工藤/nrjb, 告诉/v
+御厨佑介 /nr 2	 着/uzhe, 御厨佑介/nrj, 一家/n,
+和美 /nr 2	 d, 个/q, 和美/nrjb, 晴/vi
+一角 /nr 2	 , 床单/n, 一角/nrjb, 露出/v
+美丽 /nr 2	  ，/w], [美丽/nrjb, 的/ud
+连你 /nr 2	  ，/w], [连你/nr, 刚刚/d, 
+上一夜 /nr 1	 过/uguo, 上一夜/nrj, ，/w],
 关是 /nr 1	 有/vyou, 关是/nr, 肯定/v, 
-向里 /nr 1	 n, 上/f, 向里/nr, 窥望/v, 
-能佑介 /nr 1	 c, 可/v, 能佑介/nrj, 也/d, 
-钱而 /nr 1	  了/ule, 钱而/nr, 消失/vi,
-安提克 /nr 1	  ”/w], [安提克/nr, 的/ude1
-方式问 /nr 1	 v, 种/q, 方式问/nr, ，/w], 
-才对呢 /nr 1	 老师/nnt, 才对呢/nr, ”/w], 
-串成一 /nr 1	 , 没法/v, 串成一/nrj, 整件事/n
-那只叫 /nr 1	  了/ule, 那只叫/nr, ‘/w, 妙
-太田康子 /nr 1	 难过/a], [太田康子/nrj, ”/w],
-内容了 /nr 1	 的/ude1, 内容了/nrj, ，/w],
-那是你 /nr 1	 , [“/w, 那是你/nr, 铲/v, 的
-那件 /nr 1	 是/vshi, 那件/nr, 日式/n, 
-何会 /nr 1	 f, 为/p, 何会/nr, 弥漫着/l,
-阴有 /nr 1	  日/b], [阴有/nr, 时有/d, 
-顿涌 /nr 1	  [心头/s, 顿涌/nr, 一/m, 丝
-能沙也加 /nr 1	 w, 可/v, 能沙也加/nrj, 喜欢/vi
-琼斯 /nr 1	  ./w], [琼斯/nrf, 一样/uy
+曾和 /nr 1	  [我/rr, 曾和/nr, 一个/mq,
+门和 /nr 1	 的/ude1, 门和/nr, 锁/v, 只
 那一年 /nr 1	  了/ule, 那一年/nr, 的/ude1
-鸭形 /nr 1	 , 出现/v, 鸭形/nr, 的/ude1
-真聪明 /nr 1	 , [“/w, 真聪明/nr, ”/w], 
-来是有 /nr 1	 z, 说/v, 来是有/nr, 这么回事/n
+那就更 /nr 1	  ，/w], [那就更/nr, 不用说/vl
+连问 /nr 1	  ，/w], [连问/nr, ‘/w, 怎
+那一页 /nr 1	  了/ule, 那一页/nr, ，/w], 
+那小子 /nr 1	  ，/w], [那小子/nr, 都/d, 给
+来玩 /nr 1	 这里/rzs, 来玩/nr, 也/d, 有
+小野浩司 /nr 1	  。/w], [小野浩司/nrj, ”/w],
+路易斯 /nr 1	  那只/nr, 路易斯/nrf, 提包/n,
+家犬子 /nr 1	 , 我/rr, 家犬子/nrj, 今年/t,
+符而已 /nr 1	 , 免罪/v, 符而已/nr, 。/w], 
+那混 /nr 1	  。/w], [那混/nr, 蛋/nf, 
+为了妙 /nr 1	 是/vshi, 为了妙/nrj, 美/b, 
+练马 /nr 1	 r, 在/p, 练马/nr, 工作/vn,
+连医生 /nr 1	  。/w], [连医生/nr, 都/d, 不
 定厨房 /nr 1	 v, 不/d, 定厨房/nrj, 有/vyo
+连心 /nr 1	  ，/w], [连心/nr, 也/d, 被
+安心一 /nr 1	 , 我/rr, 安心一/nrj, 点/qt,
+钱而 /nr 1	  了/ule, 钱而/nr, 消失/vi,
+里一步 /nr 1	  这/rzv, 里一步/nrj, 。/w],
+沙也家 /nr 1	 n, ”/w, 沙也家/nr, 两手/m, 
+那对 /nr 1	 的/ude1, 那对/nr, 情侣/n, 
+藤本洋一 /nr 1	 ude1], [藤本洋一/nrj, ”/w],
+原班长 /nr 1	 , [”/w, 原班长/nr, 问/v, ，
+那来 /nr 1	  ，/w], [那来/nr, 这里/rzs
+串成一 /nr 1	 , 没法/v, 串成一/nrj, 整件事/n
+来是 /nr 1	 z, 说/v, 来是/nr, 有/vyou
+太田 /nr 1	 难过/a], [太田/nrjb, 康子/n
+谢谢你 /nr 1	 , [“/w, 谢谢你/nr, ”/w], 
+本领可 /nr 1	 的/ude1, 本领可/nrj, 是/vsh
+近藤 /nr 1	  。/w], [近藤/nrjb, 有/vy
+塞得 /nr 1	 , 提包/n, 塞得/nrf, 鼓鼓的/z
+真聪明 /nr 1	 , [“/w, 真聪明/nr, ”/w], 
+连正在 /nr 1	  [因为/c, 连正在/nr, 建造/v, 
+安迪 /nr 1	 d, 像/v, 安迪/nrf, ./w],
+张是 /nr 1	 z, 两/m, 张是/nr, 印有/v, 
+谈一谈 /nr 1	 老师/nnt, 谈一谈/nr, ，/w], 
+台启 /nr 1	 嗣/ng], [台启/nr, ”/w], 
+宏美 /nr 1	 本/nrjb, 宏美/nrjb, ”/w]
+要完 /nr 1	 n, 都/d, 要完/nrj, 蛋/nf,
+那根 /nr 1	 的/ude1, 那根/nr, 烟囱/n, 
+来爱我 /nr 1	 , 试图/v, 来爱我/nr, ，/w], 

@@ -4,7 +4,7 @@ import os
 import re
 from collections import Counter
 startJVM('/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/amd64/server/libjvm.so', "-Djava.class.path=/home/zc/project/data_mining_class/KeigoHigashino-master/lib/hanlp-1.5.3-release/hanlp-1.5.3.jar:/home/zc/project/data_mining_class/KeigoHigashino-master/lib/hanlp-1.5.3-release/")
-
+#startJVM('/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/amd64/server/libjvm.so', "path=/home/zc/project/data_mining_class/KeigoHigashino-master/lib/hanlp-1.5.3-release/hanlp-1.5.3.jar:/home/zc/project/data_mining_class/KeigoHigashino-master/lib/hanlp-1.5.3-release/")
 #"""
 # 利用hanlp进行分词
 # 因为hanlp的分词结果对人名地名分割效果较好，而jieba分词对整体分词效果较好，因此先用hanlp分词得到一些关键属性(人名地名等)
@@ -14,10 +14,12 @@ startJVM('/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/amd64/server/libjvm.so', "-D
 
 # Initial hanlp
 HanLP = JClass('com.hankcs.hanlp.HanLP')
+#HanLP = JClass('/home/zc/project/data_mining_class/KeigoHigashino-master/lib/hanlp-1.5.3-release/hanlp.properties')
+
 segmentor = HanLP.newSegment().enableJapaneseNameRecognize(True)
 
 # Cut words for given filename of .txt file, write result into out_dir and filter attributes to filter_dirs
-def cut_words(filename, in_dir='./txt', out_dir='', filter_dirs=[''], reexs=[]):
+def cut_words(filename, in_dir='./txt', out_dir=' ', filter_dirs=[''], reexs=[]):
     with open(os.path.join(in_dir, '%s.txt' % filename), encoding='GBK') as f:
         print("处理：%s" %filename)
 
@@ -27,6 +29,7 @@ def cut_words(filename, in_dir='./txt', out_dir='', filter_dirs=[''], reexs=[]):
         with open(os.path.join(out_dir, '%s.txt' % filename), 'w') as fcut:
             fcut.write(cuts)
 
+        HanLP.parseDependency()
         filtered = []
         counters = []
         for p in reexs :

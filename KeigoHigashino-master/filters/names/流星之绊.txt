@@ -1,100 +1,100 @@
-静奈 /nr 574	  [只见/v, 静奈/nr, 把头/n, 
-柏原 /nr 306	 , [“/w, 柏原/nr, 才/d, 赶
-泰辅 /nr 181	 , [”/w, 泰辅/nr, 回头/vi,
-功一 /nr 160	 e, 看/v, 功一/nrj, ，/w],
-户神先生 /nr 34	 , [“/w, 户神先生/nrj, ，/w],
-高峰小姐 /nr 21	 , 听听/v, 高峰小姐/nrj, 的/ude
-上田 /nr 20	 着/uzhe, 上田/nr, 繁/ag, 
-贵美子 /nr 18	  [妈妈/n, 贵美子/nr, 从/p, 厨
-幸博 /nr 15	 , 爸爸/n, 幸博/nr, ：/w, “
-泰辅问 /nr 13	 , [”/w, 泰辅问/nr, 。/w], 
-有明先生 /nr 12	 , 叫/vi, 有明先生/nrj, 。/w],
-广尾店 /nr 10	 s, ”/w, 广尾店/nr, 的/ude1
+静奈 /nr 599	  [只见/v, 静奈/nrjb, 把头/n
+行成 /nr 572	 神/nrjb, 行成/nrjb, ，/w]
+泰辅 /nr 482	  ，/w], [泰辅/nrjb, 小心翼翼
+户神 /nr 388	 , 叫/vi, 户神/nrjb, 行成/n
+柏原 /nr 332	 , [“/w, 柏原/nrjb, 才/d,
+萩村 /nr 270	  。/w], [萩村/nrjb, 信二/n
+有明 /nr 180	 v, “/w, 有明/nrjb], [“/
+功一 /nr 159	 e, 看/v, 功一/nrj, ，/w],
+绪里 /nr 91	 , 佐/vg, 绪里/nrjb, ）/w,
+高山 /nr 89	  注意到/v, 高山/nrjb, 的/ud
+志穗 /nr 81	 南田/nrf, 志穗/nrjb, 的/ud
+父亲 /nr 68	  [他/rr, 父亲/nrjb, 开创/v
+横须贺 /nr 56	  。/w], [横须贺/nrjb, 是/vs
+川野 /nr 41	 [”/w], [川野/nrjb, 武/ag
+贵美子 /nr 40	  [妈妈/n, 贵美子/nrjb, 从/p,
+户神先生 /nr 39	 , 和/cc, 户神先生/nrj, 约/d, 
+高峰 /nr 36	 w, （/w, 高峰/nrjb, ）/w,
+幸博 /nr 27	 , 爸爸/n, 幸博/nr, ：/w, “
+辻本 /nr 25	 , 叫/vi, 辻本/nrjb, 的/ud
+上田 /nr 23	 着/uzhe, 上田/nrjb, 繁/ag
+高峰小姐 /nr 22	 , 听听/v, 高峰小姐/nrj, 的/ude
+望向 /nr 20	  ，/w], [望向/nr, 窗户/n, 
+横滨 /nr 20	 d, 在/p, 横滨/nrjb, 接/v,
+和静奈 /nr 18	 辅/nrjb, 和静奈/nrj, 带走/v,
+樱木 /nr 17	  [走出/v, 樱木/nrjb, 町/n,
+本部 /nr 16	  ，/w], [本部/nrjb, 有/vy
+野村 /nr 15	  ，/w], [野村/nrjb, 隆夫/n
+矶部 /nr 14	 , [”/w, 矶部/nrjb, 从文件/
+和行 /nr 14	  [刚刚/d, 和行/nrjb, 成/v,
+津岛 /nr 13	 , 现在/t, 津岛/nrjb, 陪/v,
+有明先生 /nr 13	 , 叫/vi, 有明先生/nrj, 。/w],
+广尾 /nr 13	 , 前往/v, 广尾/nrjb, 的/ud
+南田 /nr 12	  ，/w], [南田/nrf, 志穗/nr
+白银 /nr 11	 e, “/w, 白银/nrjb, 屋/n,
 功一一 /nr 10	 被/pbei, 功一一/nrj, 催/v, 
-向静奈 /nr 9	  ，/w], [向静奈/nrj, 坦白/v,
-柏原先生 /nr 9	 , 告诉/v, 柏原先生/nrj, 的/ude
-久伸先生 /nr 8	  麻烦/an, 久伸先生/nrj, 。/w],
-向泰辅 /nr 8	 z, 转/v, 向泰辅/nrj, ，/w],
-功一笑 /nr 7	 , [”/w, 功一笑/nrj, 道/qv,
-行成伸 /nr 7	 , [”/w, 行成伸/nrj, 出/vf,
+久伸先生 /nr 9	  麻烦/an, 久伸先生/nrj, 。/w],
+春日井 /nr 9	  课/n], [春日井/nrjb, 健一/n
+高山久 /nr 9	 [”/w], [高山久/nr, 伸在/v, 
+关内 /nr 8	 , 你/rr, 关内/nrjb, 的/ud
+高山先生 /nr 8	 , 打进/v, 高山先生/nrj, 的/ude
+山部 /nr 8	  。/w], [山部/nrjb, 看着/v
 谢恩 /nr 7	 的/ude1, 谢恩/nrf, 会/v, 
-行成一 /nr 7	 [“/w, 静和行成一/nrj, 起/vf,
-和静奈 /nr 6	 , 辅/vg, 和静奈/nrj, 说/v, 
+那本 /nr 7	  。/w], [那本/nr, 笔记本/n,
+望向功 /nr 7	  [然后/c, 望向功/nr, 一/m, ，
+功一笑 /nr 7	 , [”/w, 功一笑/nrj, 道/qv,
 久等了 /nr 6	 , [“/w, 久等了/nrj, 。/w],
-高山先生 /nr 6	 v, 对/p, 高山先生/nrj, 也/d, 
-行成笑 /nr 6	 [”/w], [行成笑/nrj, 着/uzh
-南田志穗 /nr 6	  ，/w], [南田志穗/nrj, 的/ude
 功一望 /nr 6	  。/w], [功一望/nrj, 着/uzh
-南田 /nr 6	 , 和/cc, 南田/nrf, 小姐/n,
-成在 /nr 6	  [行/ng, 成在/nr, 摆放着/l,
-明幸博 /nr 6	 有/vyou, 明幸博/nr, 被/pbei
-向功一 /nr 5	 , [望/v, 向功一/nr, 。/w], 
-萩村望 /nr 5	 , [”/w, 萩村望/nrj, 着/uzh
-川野一 /nr 5	  ，/w], [川野一/nrj, 脸/n, 
-行成望 /nr 5	  ，/w], [行成望/nrj, 着/uzh
+名古屋 /nr 5	  [去/vf, 名古屋/nrjb, 干吗/v
 功一伸 /nr 5	 [”/w], [功一伸/nrj, 手/n, 
-行成心 /nr 5	  ，/w], [行成心/nrj, 扑腾/vi
-行成了 /nr 4	  再见/vi, 行成了/nrj, 。/w],
-成从 /nr 4	  [行/ng, 成从/nr, 口袋/n, 
-向行成 /nr 4	  [最后/f, 向行成/nr, 投去/nz,
-行成先生 /nr 4	  ，/w], [行成先生/nrj, 的/ude
-山部 /nr 4	 被/pbei, 山部/nr, 一语道破/v
-高山久 /nr 4	 着/uzhe, 高山久/nr, 伸/v, 的
-和泰辅 /nr 4	 r, 没/d, 和泰辅/nrj, 、/w, 
-矢崎静奈 /nr 3	  。/w], [矢崎静奈/nrj, 是/vsh
-武雄 /nr 3	 b, 野/b, 武雄/nr, 如同/v, 
-中学时代 /nr 3	 是/vshi, 中学时代/nrj, 的/ude
-成人类 /nr 3	 , 以为/v, 成人类/nr, 的/ude1
-萩村一 /nr 3	  。/w], [萩村一/nrj, 边/k, 
-矢崎静奈小姐 /nr 3	 , 叫/vi, 矢崎静奈小姐/nrj, 吧/y, 
-才说 /nr 3	 , 现在/t, 才说/nr, 吧/y, 。
-真心了 /nr 3	 w, 动/v, 真心了/nrj, 。/w],
-成也 /nr 3	  [行/ng, 成也/nr, 随后/d, 
-泰辅君 /nr 3	 是/vshi, 泰辅君/nr, ？/w], 
-萩村先生 /nr 3	  ，/w], [萩村先生/nrj, 。/w],
-石神 /nr 3	  了/ule, 石神/nr, 井/n, 公
-安心了 /nr 3	  。/w], [安心了/nrj, ，/w],
-都是你 /nr 3	 , [“/w, 都是你/nr, 发出/v, 
-泰辅边 /nr 3	 , [”/w, 泰辅边/nr, 换/v, 着
-柏原望 /nr 3	 , [”/w, 柏原望/nrj, 着/uzh
+母亲 /nr 5	 的/ude1, 母亲/nrjb, 在/p,
+目黑 /nr 4	 , 位于/v, 目黑/nrjb, 的/ud
+街道 /nr 4	 , 普通/a, 街道/nrjb, 上/f,
+石神 /nr 4	 , 位于/v, 石神/nrjb, 井/n,
+上前 /nr 4	 奈/nrjb, 上前/nrjb, 搭话/v
+向政行 /nr 4	 成望/nrj, 向政行/nr, 。/w], 
 衣笠 /nr 3	 , 去/vf, 衣笠/nr, 那儿/rzs
 买马 /nr 3	  [然后/c, 买马/nrf, 券/ng,
+那张 /nr 3	  拿着/vf, 那张/nr, 肖像/n, 
 和佐绪里 /nr 3	 , 瞒着/v, 和佐绪里/nrj, 见面/vi
-成看 /nr 2	  [行/ng, 成看/nr, 了/ule,
-功一晃 /nr 2	  ，/w], [功一晃/nrj, 着/uzh
-关内了 /nr 2	  搬到/vf, 关内了/nrj, 。/w],
-明家 /nr 2	 有/vyou, 明家/nr, 三/m, 兄
-泰辅叫 /nr 2	 , [”/w, 泰辅叫/nr, 道/qv, 
-户神一 /nr 2	 r, 对/p, 户神一/nrj, 无/v, 
-马之树 /nr 2	 q, “/w, 马之树/nr, ”/w, 咖
-成说 /nr 2	  [行/ng, 成说/nr, ，/w], 
-成边 /nr 2	  [行/ng, 成边/nr, 钻进/v, 
-三家旅馆 /nr 2	  这/rzv, 三家旅馆/nrj, 还/d, 
-双眉 /nr 2	 的/ude1, 双眉/nr, 浮现/vi,
-香奈儿 /nr 2	 着/uzhe, 香奈儿/nrf, 的/ude
-明海 /nr 2	 有/vyou, 明海/nr, 的/ude1
-功一笑了笑 /nr 2	 , [”/w, 功一笑了笑/nrj, 。/w],
-有明兄弟 /nr 2	  ，/w], [有明兄弟/nrj, 和静/nz
-起朋友 /nr 2	 得/ude3, 起朋友/nrj, 的/ude
-才好 /nr 2	 , 惨剧/n, 才好/nr, ，/w], 
-羊小排 /nr 2	  了/ule, 羊小排/nr, 。/w], 
-行成刚 /nr 2	 n, 比/p, 行成刚/nrj, 好/a, 
-成用 /nr 2	  [行/ng, 成用/nr, 叉子/n, 
-全无 /nr 2	  ，/w], [全无/nr, 一/m, 丝
-那封 /nr 2	 f, 认/v, 那封/nr, 遗书/n, 
-萩村顺 /nr 2	  。/w], [萩村顺/nrj, 着/uzh
-成连 /nr 2	  [行/ng, 成连/nr, 一/m, 分
-车子远 /nr 2	 着/uzhe, 车子远/nrj, 去/vf,
-望向功 /nr 2	  [然后/c, 望向功/nr, 一/m, ，
+都是你 /nr 3	 , [“/w, 都是你/nr, 发出/v, 
+柏原先生 /nr 3	 ……/w], [柏原先生/nrj, ，/w],
+行成心 /nr 3	  ，/w], [行成心/nrj, 扑腾/vi
+中学时代 /nr 3	 是/vshi, 中学时代/nrj, 的/ude
+山田 /nr 3	 w, （/w, 山田/nrjb, ）/w,
+双眉 /nr 3	 d, 皱/v, 双眉/nr, ，/w], 
+洋梨 /nr 3	 着/uzhe, 洋梨/nr, 。/w], 
+才说 /nr 3	 , 现在/t, 才说/nr, 吧/y, 。
+那头 /nr 3	 的/ude1, 那头/nr, 是/vshi
+多久 /nr 3	 d, 骑/v, 多久/nrjb, 左边/f
+成人类 /nr 3	 , 以为/v, 成人类/nr, 的/ude1
+萩村望 /nr 3	 [”/w], [萩村望/nrj, 向/p, 
+那店 /nr 3	 , 遇到/v, 那店/nr, 的/ude1
+向功一 /nr 3	 , 再次/d, 向功一/nr, 袭来/vf,
+真心了 /nr 3	 w, 动/v, 真心了/nrj, 。/w],
+安心了 /nr 3	  。/w], [安心了/nrj, ，/w],
 沙龙 /nr 2	  美容/vn, 沙龙/nrf, 推荐/v,
-成选 /nr 2	  [行/ng, 成选/nr, 了/ule,
+关内了 /nr 2	  搬到/vf, 关内了/nrj, 。/w],
+行先生 /nr 2	 , 政/ng, 行先生/nrj, 。/w],
+时光 /nr 2	 的/ude1, 时光/nrjb, ，/w]
+高山和 /nr 2	 , 望着/v, 高山和/nr, 志穗/nrj
+马之树 /nr 2	 q, “/w, 马之树/nr, ”/w, 咖
+和川 /nr 2	 奈/nrjb, 和川/nrjb, 野/b,
+全无 /nr 2	  ，/w], [全无/nr, 一/m, 丝
+连静 /nr 2	  ，/w], [连静/nr, 也/d, 带
+行成先生 /nr 2	  ，/w], [行成先生/nrj, 的/ude
+那副 /nr 2	 , 还是/c, 那副/nr, 腔调/n, 
+功一望了望 /nr 2	  。/w], [功一望了望/nrj, 柏原/nr
+功一晃 /nr 2	  ，/w], [功一晃/nrj, 着/uzh
+有一 /nr 2	 , 如同/v, 有一/nrj, 把/pba
+真想 /nr 2	 , 知道/v, 真想/nr, ，/w], 
 都是我 /nr 2	  [晚上/t, 都是我/nr, 一个/mq,
-上田先生 /nr 2	 , 叫/vi, 上田先生/nrj, 吧/y, 
-望向 /nr 2	 , [”/w, 望向/nr, 身旁/s, 
-春日井健一 /nr 2	  课/n], [春日井健一/nrj], [“/w
-横田一 /nr 2	 , [”/w, 横田一/nrj, 脸/n, 
-原味 /nr 2	 的/ude1, 原味/nr, 。/w], 
-川上 /nr 2	  大冈/ns, 川上/nr, 的/ude1
+钱也 /nr 2	 的/ude1, 钱也/nr, 被/pbei
+那去 /nr 2	 , [“/w, 那去/nr, 一/m, 次
+功一笑了笑 /nr 2	 , [”/w, 功一笑了笑/nrj, 。/w],
+那封 /nr 2	 f, 认/v, 那封/nr, 遗书/n, 
+才更 /nr 2	  ，/w], [才更/nr, 不甘心/nz
 功一让 /nr 2	  。/w], [功一让/nrj, 她/rr,
-嘎滋 /nr 2	 n, ”/w, 嘎滋/nr, 嘎滋/nr,
-刚过 /nr 2	  ，/w], [刚过/nr, 22/m, 
+美丽 /nr 2	 v, 幕/q, 美丽/nrjb, 镇住/v
+矢崎静奈小姐 /nr 2	 是/vshi, 矢崎静奈小姐/nrj, 吧/y, 
+上田先生 /nr 2	 , 叫/vi, 上田先生/nrj, 吧/y, 
