@@ -101,6 +101,7 @@ ENV/
 .mypy_cache/
 *~
 HanLP-master/
+jieba-master/
 <<<<<<< HEAD
 
 =======
