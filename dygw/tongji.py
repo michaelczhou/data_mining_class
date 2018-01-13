@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import matplotlib.mlab as mlab
 import tkinter
-startJVM('/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/amd64/server/libjvm.so', "-Djava.class.path=/home/zc/project/data_mining_class/KeigoHigashino-master/lib/hanlp-1.5.3-release/hanlp-1.5.3.jar:/home/zc/project/data_mining_class/KeigoHigashino-master/lib/hanlp-1.5.3-release/")
+startJVM('/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/amd64/server/libjvm.so', "-Djava.class.path=/home/zc/project/data_mining_class/dygw/lib/hanlp-1.5.3-release/hanlp-1.5.3.jar:/home/zc/project/data_mining_class/dygw/lib/hanlp-1.5.3-release/")
 #startJVM('/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/amd64/server/libjvm.so', "path=/home/zc/project/data_mining_class/KeigoHigashino-master/lib/hanlp-1.5.3-release/hanlp-1.5.3.jar:/home/zc/project/data_mining_class/KeigoHigashino-master/lib/hanlp-1.5.3-release/")
 #"""
 # 利用hanlp进行分词
