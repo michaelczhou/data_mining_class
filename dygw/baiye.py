@@ -20,11 +20,11 @@ with open("./txt/白夜行.txt",encoding='GBK') as s:
 
     num_bins = len(len__ju)
     fig, ax = plt.subplots()
-    n, bins, patches = ax.hist(len__ju, len(len__ju), normed=10)
+    n, bins, patches = ax.hist(len__ju, 130, normed=10000)
 
     # ax.plot(bins, y, '--')
     ax.set_xlabel(r"白夜行")
-    ax.set_ylabel(r'每句字数')
-    ax.set_title(r'句子长短统计')
+    ax.set_ylabel(r"每句字数")
+    ax.set_title(r"句子长短统计")
     fig.tight_layout()
     plt.show()
