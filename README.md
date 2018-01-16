@@ -17,3 +17,5 @@ jpype for python 3.5:
 
 ./lib/hanlp-1.5.3-release/hanlp.properties 里修改hanlp-master的路径
 hanlp-master文件夹里的data需要替换专用data
+
+权利的游戏代码未调通
