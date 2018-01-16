@@ -1,3 +1,4 @@
+#-*- coding:utf-8 -*-
 import os
 import re
 import gensim
@@ -84,7 +85,7 @@ model.save('word2vec2.model')
 #model = gensim.models.Word2Vec.load('word2vec2.model')
 
 # 找最近邻单词
-find_words_nn(['香子'])
+find_words_nn(['雪穗'])
 find_words_nn(["加贺恭一郎", "加贺"])
 
 # 查找相互关系
